@@ -5,7 +5,7 @@
 Este projeto utiliza AWS CloudFormation para provisionar automaticamente
 três recursos principais:
 
-1.  Instância EC2 Linux\
+1.  Instância EC2 Linux\Windows
 2.  Application Load Balancer (ALB)\
 3.  Banco de Dados RDS (MySQL)
 
